@@ -14,5 +14,5 @@
 
 4. Then, you can issue the following commands to donwload the Android source for Tinker Board 2/2S.
 
-    $ repo init -u https://github.com/TinkerBoard2-Android/manifest.git -b android11-rk3399 -m tinker_board_2-android11-2.0.1.xml
+    $ repo init -u https://github.com/marcy05/TinkerBoard2s.git -b android14-rk3399 -m tinker_board_2-android14-0.0.1.xml
     $ repo sync
