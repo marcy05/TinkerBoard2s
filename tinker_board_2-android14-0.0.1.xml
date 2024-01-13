@@ -786,5 +786,5 @@
   <project path="vendor/rockchip/hardware" name="vendor-rockchip-hardware" />
   <project path="vendor/widevine" name="vendor-Widevine" />
 
-  <include name="android-14.0.0_r21" />
+  <include name="android-14.0.0_r21.xml" />
 </manifest>
