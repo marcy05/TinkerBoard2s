@@ -8,6 +8,11 @@
 	  fetch="https://android.googlesource.com/"
           review="https://android-review.googlesource.com/"
           revision="refs/tags/android-14.0.0_r21" />
+  
+  <remote name="marcy05_repos"
+          fetch="https://github.com/marcy05"
+          review="https://github.com/marcy05"
+          revision="lMint_android14-rk3399" />
 
   <default revision="refs/tags/tinker_board_2-android11-2.0.1"
            remote="github"
@@ -75,7 +80,7 @@
   <project path="device/rockchip/rk3399" name="device-rockchip-rk3399" />
   <project path="device/rockchip/rk356x" name="device-rockchip-rk356x" />
   <project path="device/sample" name="device-sample" />
-  <project path="docker_builder" name="docker_builder" />
+  <project path="docker_builder" name="inkerBoard2s_docker_builder_linuxMint" remote="marcy05_repos" />
   <project path="external/FP16" name="external-FP16" />
   <project path="external/FXdiv" name="external-FXdiv" />
   <project path="external/ImageMagick" name="external-ImageMagick" />
