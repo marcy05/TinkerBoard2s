@@ -9,6 +9,11 @@
           review="https://android-review.googlesource.com/"
           revision="refs/tags/android-14.0.0_r21" />
   
+  <remote name="android-12.1.0_r27"
+	  fetch="https://android.googlesource.com/"
+          review="https://android-review.googlesource.com/"
+          revision="refs/tags/android-12.1.0_r27" />
+  
   <remote name="marcy05_repos"
           fetch="https://github.com/marcy05"
           review="https://github.com/marcy05"
