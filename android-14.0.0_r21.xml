@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="build/orchestrator" name="platform/build/orchestrator" groups="pdk" remote="android-14.0.0_r21" />
+  <project path="bootable/libbootloader" name="platform/bootable/libbootloader" groups="vts,pdk" remote="android-14.0.0_r21" />
+
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" remote="android-14.0.0_r21" />
   <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" remote="android-14.0.0_r21" />
   <project path="external/google-breakpad" name="platform/external/google-breakpad" groups="pdk-fs" remote="android-14.0.0_r21" />
