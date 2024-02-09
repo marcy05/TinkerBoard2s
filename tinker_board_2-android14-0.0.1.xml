@@ -26,7 +26,7 @@
   <project path="RKDocs/android" name="RKDocs-android" />
   <project path="RKDocs/common" name="RKDocs-common" />
   <project path="RKTools" name="RKTools" />
-  <project path="art" name="art"/>
+  <project path="art" name="art" />
   <project path="bionic" name="bionic" />
   <project path="bootable/recovery" name="bootable-recovery" />
   <project path="bootable/recovery/mtdutils" name="bootable-recovery-mtdutils" />
