@@ -2,7 +2,8 @@
 <manifest>
   <remote name="github"
 	  fetch="https://github.com/TinkerBoard2-Android/"
-	  review="https://github.com/TinkerBoard2-Android/" />
+	  review="https://github.com/TinkerBoard2-Android/"
+	  revision="android11-rk3399" />
 
   <remote name="android-14.0.0_r21"
 	  fetch="https://android.googlesource.com/"
